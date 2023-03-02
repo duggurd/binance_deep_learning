@@ -9,6 +9,10 @@ __pycache__/
 # .devcontainer
 .devcontainer
 
+# db
+*.sqlite
+*.db
+
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,4 @@
+{
+    "python.terminal.executeInFileDir": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true
+}
